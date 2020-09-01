@@ -1,0 +1,10 @@
+*/target
+*/src/main/*.iml
+*/*.iml
+*.iml
+/.idea/
+/var/
+/*/*/src/main/resources/logback.xml
+/*/*/src/main/resources/*.properties
+!/*/*/src/main/resources/application-apollo.properties
+!/*/*/src/main/resources/application.properties
